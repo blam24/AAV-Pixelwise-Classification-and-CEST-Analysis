@@ -1,1 +1,2 @@
 # AAV-Pixelwise-Classification-and-CEST-Analysis
+This code takes CEST MRI data from muscle with adeno-associated virus (AAV)-laden hydrogel and performs pixelwise classification of the tissue area for subsequent CEST contrast analysis, including B0 correction and Lorentzian fitting. Multiple parameters/figures related to CEST contrast are calculated and displayed, including average CEST contrast, CEST contrast histograms per classification category, and overlaid CEST contrast maps. 
